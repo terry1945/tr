@@ -1,1 +1,9 @@
 This is just for testing a ssh key.
+I had to :
+	git remote set-url origin git@github.com:terry1945/tr.git
+
+	git config --global --edit
+	name = terry1945
+	email = leweyhorseetc..
+
+Then I could git push origin main
