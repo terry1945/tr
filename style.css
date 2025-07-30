@@ -1,0 +1,25 @@
+body {
+	/*max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;*/
+	margin: 10px 300px 10px 300px;
+	padding: 10px 50px 20px;
+	border: solid;
+}
+
+ul {
+	list-style-type: none;
+}
+
+html {
+	box-sizing: border-box;
+	color-scheme: light dark;
+}
+
+.my-navbar {
+	float: right;
+}
+
+h1 {
+	color: red;
+}
